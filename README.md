@@ -1,7 +1,7 @@
 Bus Data Collection and Selector Application
 This repository contains a Jupyter Notebook for collecting bus route data, an automation script for data collection, and a Streamlit-based web application for selecting and filtering buses based on various criteria.
 
-Overview
+OvervieW
 Data Collection
 The data_collection.ipynb notebook is designed to collect detailed bus route information, including bus types, timings, and durations. It processes the data and prepares it for further use in the application.
 
